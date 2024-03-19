@@ -1,0 +1,97 @@
+body{
+    background-color: lightblue;
+}
+.main{
+    height:100vh;
+    width:100vw;
+}
+.cd{
+    height:250px;
+    width:250px;
+    border:3px solid blueviolet;
+}
+img{
+    height:250px;
+    width:250px;
+}
+.cd1{
+    position: relative;
+    top:50px;
+    left:90px;
+}
+.cd2{
+    position:relative;
+    left:430px;
+    bottom:204px;
+}
+.cd3{
+    position: relative;
+    left:770px;
+    bottom:457px;
+}
+.cd4{
+    position: relative;
+    left:1110px;
+    bottom:710px;
+}
+.cd5{
+    position: absolute;
+    top:400px;
+    left:95px;
+}
+.cd6{
+    position:absolute;
+    top:400px;
+    left:440px;
+}
+.cd7{
+    position: absolute;
+    top:400px;
+    left:780px;
+}
+.cd8{
+    position: absolute;
+    top:400px;
+    left:1120px;
+}
+.cd9{
+    position: absolute;
+    top:750px;
+    left:95px;
+}
+.cd10{
+    position: absolute;
+    top:750px;
+    left:440px;
+}
+.cd11{
+    position: absolute;
+    top:750px;
+    left:780px;
+
+}
+.cd12{
+    position: absolute;
+    top:750px;
+    left:1120px;
+}
+.cd13{
+    position: absolute;
+    top:1100px;
+    left:95px;
+}
+.cd14{
+    position: absolute;
+    top:1100px;
+    left:440px;
+}
+.cd15{
+    position: absolute;
+    top:1100px;
+    left:780px;
+}
+.cd16{
+    position: absolute;
+    top:1100px;
+    left:1120px;
+}
